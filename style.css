@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+font-family: "游明朝体", "MS P明朝", "ヒラギノ明朝 Pro";
+}
+.ex1{
+font-size:30px;
+line-height:30px;
+}
